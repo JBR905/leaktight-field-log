@@ -9,3 +9,11 @@ Test Mode is hidden in this field edition. Existing real entries remain under th
 Entries are stored on the device, not synchronized or backed up automatically. Export a JSON backup at least weekly, preferably daily. Do not clear website data. Check actual entries, print alignment, and offline function before relying on it at work.
 
 Do not publish actual work-order, batch/lot or other company records to the public GitHub repository. GitHub Pages hosts app code and blank template only. Obtain any required workplace approval for use.
+
+V14 PDF UPDATE
+- Weekly Forms > Generate PDF creates a real, self-contained PDF on-device.
+- On iPhone, the Share sheet should offer Save to Files and Print.
+- Print from the saved PDF (not Safari's webpage Print command) to avoid URL/page headers.
+- No remote PDF libraries, accounts, or internet connection needed after offline caching.
+- Records remain in local browser storage; back up JSON before switching origins.
+- Test the PDF and printing on the actual iPhone before using it for official submission.
